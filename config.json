@@ -1,0 +1,1 @@
+{"interested_sectors": ["technology", "finance", "healthcare"], "email_settings": {"smtp_server": "smtp.example.com", "port": 587, "sender_email": "no-reply@example.com", "recipient_email": "user@example.com"}}
